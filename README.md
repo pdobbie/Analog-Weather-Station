@@ -9,6 +9,9 @@ In order to properly use this code, the Particle.publish() and Particle.subscrib
 This project makes use of the "PowerShield.h" and "PowerShield.cpp" files, based on the original library published by Luca Dentella (http://www.lucadentella.it), and modified by Mohit Bhoite @ Particle Industries, Inc. July 2015.
 
 OpenWeatherMap API: http://openweathermap.org/api
+
 Particle Photon Documentation: https://docs.particle.io/guide/getting-started/intro/photon/
+
 Power Shield Documentation: http://docs.particle.io/photon/shields/#power-shield
+
 MAX17043 datasheet: http://datasheets.maximintegrated.com/en/ds/MAX17043-MAX17044.pdf
