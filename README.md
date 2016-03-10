@@ -14,4 +14,6 @@ Particle Photon Documentation: https://docs.particle.io/guide/getting-started/in
 
 Power Shield Documentation: http://docs.particle.io/photon/shields/#power-shield
 
+Power Shield Library: https://github.com/spark/PowerShield
+
 MAX17043 datasheet: http://datasheets.maximintegrated.com/en/ds/MAX17043-MAX17044.pdf
